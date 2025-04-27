@@ -89,6 +89,8 @@ First, clone the repository:
 ```bash
 git clone https://github.com/yourusername/vita.git
 cd vita
+```bash
+
 
 ### 2. Install Dependencies
 Before running, you need to install all dependencies. Specifically, you need to install the SFML (Simple and Fast Multimedia Library) for graphics and user interface handling.
